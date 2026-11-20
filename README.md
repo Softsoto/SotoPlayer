@@ -24,6 +24,8 @@ SOTO PLAYER reúne en una sola aplicación todo lo que normalmente necesita vari
 
 ## Novedades
 
+- **Convertir a MP4 o MKV** desde el propio reproductor: si el video ya viene en un formato compatible se copia sin pérdida; si no, se recodifica a H.264 + AAC, con barra de progreso y botón para cancelar.
+- **Videos con extensión equivocada** (por ejemplo, guardados como `.php` desde una página): ahora se reconocen por su contenido y se reproducen igual.
 - Complementos de catálogo con películas, series, fuentes y subtítulos.
 - Internet Archive integrado, con contenido de dominio público y Creative Commons.
 - Menú contextual con submenús de audio, subtítulos y velocidad.
